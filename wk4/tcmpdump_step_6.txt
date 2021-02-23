@@ -1,0 +1,47 @@
+01:00:03.506610 IP 138.197.150.181.ssh > bras-base-toroon0411w-grc-46-142-114-108-182.dsl.bell.ca.49172: Flags [P.], seq 4948120:4948724, ack 3133, win 501, length 604
+^C      0x0000:  fe00 0000 0101 4ed8 f36f d5c4 0800 4510  ......N..o....E.
+        0x0010:  0284 5b11 4000 4006 c0af 8ac5 96b5 8e72  ..[.@.@........r
+        0x0020:  6cb6 0016 c014 51a5 4c57 4d47 4fe5 5018  l.....Q.LWMGO.P.
+        0x0030:  01f5 1f1a 0000 e08d e47a 307b f1dd db68  .........z0{...h
+        0x0040:  13c9 4547 a129 63a7 1761 9daa 59c5 8a52  ..EG.)c..a..Y..R
+        0x0050:  3012 6ca6 9c9e b242 e556 6ff5 e9d0 06ad  0.l....B.Vo.....
+        0x0060:  f2cc f7a6 c65e 4e12 80ef f392 45c1 e67b  .....^N.....E..{
+        0x0070:  33b6 9a8d 6369 cf01 39ef 98fe a1e4 d69b  3...ci..9.......
+        0x0080:  f66c 5b79 e5db bb71 6ae9 a5fd 5dd3 467d  .l[y...qj...].F}
+        0x0090:  6153 3434 9016 faa9 736b 6c07 b171 9763  aS44....skl..q.c
+        0x00a0:  45b0 583a 434a c314 c208 5bde 1ea4 6091  E.X:CJ....[...`.
+        0x00b0:  fe79 3d30 ceca 0d2d e794 2237 51f8 bdc0  .y=0...-.."7Q...
+        0x00c0:  0d84 aec4 fdcf a21d a59f 1fc9 4faa 70bf  ............O.p.
+        0x00d0:  34a8 5089 1b37 68c2 2efe a383 f610 ed7a  4.P..7h........z
+        0x00e0:  9305 032d 9bc4 a55f 64e0 6088 c309 b181  ...-..._d.`.....
+        0x00f0:  75f6 fbc2 9a01 2d6b f2b3 d732 df79 6596  u.....-k...2.ye.
+        0x0100:  ceef b400 e86c 4ce6 0e10 40ad 0f21 e9aa  .....lL...@..!..
+        0x0110:  7e95 7412 ad31 9587 195a 35dd 9d22 e169  ~.t..1...Z5..".i
+        0x0120:  5fe7 3040 1d0a e69d 08a5 2e97 f4c3 5660  _.0@..........V`
+        0x0130:  5791 922c fffe c3f5 a400 f36c 5fda a126  W..,.......l_..&
+        0x0140:  0810 b546 45a6 6e47 5629 b30a 3611 df88  ...FE.nGV)..6...
+        0x0150:  e678 1ce3 4381 c632 e11b 5b09 dc51 796e  .x..C..2..[..Qyn
+        0x0160:  918d 72f5 b4a3 ba72 697f a1ce 20ef efb3  ..r....ri.......
+        0x0170:  c32f 112e 1ea2 d5d0 0b9b f09a 191f a27b  ./.............{
+        0x0180:  258b 7d78 7550 4dcd df19 386f 96dd 3d64  %.}xuPM...8o..=d
+        0x0190:  7d20 130c 7d81 24fe 86c8 4ce7 83fd c0ce  }...}.$...L.....
+        0x01a0:  8a06 8575 fbc1 fe21 f88d 5393 a83c 9ecd  ...u...!..S..<..
+        0x01b0:  9789 939d ca26 8f9a f2ac 02d3 e6c4 f44f  .....&.........O
+        0x01c0:  1e59 2114 371a 928b e480 86b3 19c4 3c96  .Y!.7.........<.
+        0x01d0:  da61 95ae 75e8 0d8e 29f9 4cb6 9a6f c2b0  .a..u...).L..o..
+        0x01e0:  c46e cc2c 4b99 7079 02ed 6469 d56e 88c7  .n.,K.py..di.n..
+        0x01f0:  fcbd 97e1 5f44 1d5a 98a8 2cf9 53a3 bb49  ...._D.Z..,.S..I
+        0x0200:  f667 aeb4 d8f1 cec7 036b 0100 1c58 6d94  .g.......k...Xm.
+        0x0210:  2e31 e757 97be 9fc2 fdb7 7a23 906c 1dec  .1.W......z#.l..
+        0x0220:  185a aaae 8c2e 1ce6 a1f5 b544 96a6 d87f  .Z.........D....
+        0x0230:  27b9 c0ee 4941 66f9 f957 a5bb 415a fd3b  '...IAf..W..AZ.;
+        0x0240:  2c96 30a0 27e6 3a4a e67c 53f8 ca51 b5a5  ,.0.'.:J.|S..Q..
+        0x0250:  a936 a3ea 50ed cd5a a7a6 5f5a 7441 6401  .6..P..Z.._ZtAd.
+        0x0260:  53bb 0ec3 165f 2430 18d4 3a30 ea7b f38d  S...._$0..:0.{..
+        0x0270:  3e70 7b0a 6c9f 5537 baaf fce4 0211 f1dd  >p{.l.U7........
+        0x0280:  b323 1acc efde 606a a65a 020e b0fe b800  .#....`j.Z......
+        0x0290:  b7b9                                     ..
+
+1807 packets captured
+15753 packets received by filter
+13914 packets dropped by kernel
