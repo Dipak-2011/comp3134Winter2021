@@ -1,0 +1,24 @@
+Hello 
+I see some text on the web page 
+They are the files or the folders that contains some documents or 
+the information in an array form. There are 16 array elements from
+0 to 15. They are shown below. 
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => backups
+    [3] => cache
+    [4] => crash
+    [5] => lib
+    [6] => local
+    [7] => lock
+    [8] => log
+    [9] => mail
+    [10] => opt
+    [11] => run
+    [12] => snap
+    [13] => spool
+    [14] => tmp
+    [15] => www
+)

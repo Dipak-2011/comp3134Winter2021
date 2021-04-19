@@ -1,0 +1,27 @@
+The only difference is you don't nedd to do hard work you just do 
+some smart work and finish the job what you were asked for. 
+
+i did <?php/*<h1>This is an example of an H1 header tag</h1>
+<!--Created by Dipak Sutradhar with employee id: 1011-->
+
+<h2>This is an example of an H2 header tag</h2>
+<!--Created by John Smith with employee id: 1011-->
+
+<h3>This is an example of an H3 header tag</h3>
+<!--Created by Smith  John with employee id: 123456-->
+
+<h4>This is an example of an H4 header tag</h4>
+<!--Created by Jhonson with employee id: 654123-->
+
+<h5>This is an example of an H5 header tag</h5>
+<!--Created by Smith cruse with employee id: 987456-->
+
+<h6>This is an example of an H6 header tag</h6>
+<!--Created by warner with employee id: 321987-->
+*/
+
+$length = 6;
+
+for ($x=0; $x < $length; $x++)
+{
+echo "<h$x>This is an example of an H1 header tag <br>  <!--Created by Dipak Sutradhar w>

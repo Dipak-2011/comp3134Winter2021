@@ -1,0 +1,9 @@
+Hello
+This the array with only 3 elements. There is only one html file.
+
+Array
+(
+    [0] => .
+    [1] => ..
+    [2] => html
+)
